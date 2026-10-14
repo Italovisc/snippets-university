@@ -1,4 +1,4 @@
-# College Snippets 🎓
+# University Snippets 🎓
 
 ## About the Repository
 This repository serves as an academic sandbox. It centralizes all coding challenges, logic exercises, and practical implementations developed throughout my undergraduate semesters.
