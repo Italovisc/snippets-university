@@ -1,18 +1,18 @@
-# Snippets Faculdade 🎓
+# College Snippets 🎓
 
-## Sobre o Repositório
-Este repositório funciona como um *sandbox* acadêmico. Ele centraliza todos os desafios de código, exercícios de lógica e implementações práticas desenvolvidas durante os semestres da minha graduação. 
+## About the Repository
+This repository serves as an academic sandbox. It centralizes all coding challenges, logic exercises, and practical implementations developed throughout my undergraduate semesters.
 
-O objetivo principal desta base de código é manter um registro histórico da minha evolução na resolução de problemas e consolidar a memória muscular no versionamento contínuo com Git.
+The primary goal of this codebase is to maintain a historical record of my problem-solving evolution and consolidate muscle memory in continuous version control with Git.
 
-## Arquitetura de Organização
-A estrutura de diretórios foi achatada para garantir acesso rápido ao código-fonte, padronizada da seguinte forma:
+## Repository Architecture
+The directory structure was flattened to ensure quick access to the source code, standardized as follows:
 
-`semestre-XX/capXX-subXX-nome-do-desafio/arquivo.extensao`
+`semester-XX/chXX-subXX-challenge-name/file.extension`
 
-* **Semestre:** Agrupamento macro temporal.
-* **Capítulo/Desafio:** Contexto isolado contendo a resolução em si (`.py`, etc).
+* **Semester:** Macro-level time grouping.
+* **Chapter/Challenge:** Isolated context containing the actual solution (.`py`, etc.).
 
-## Stack Tecnológico
+## Tech Stack
 * Python
 * C
